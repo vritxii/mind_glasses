@@ -1,0 +1,4 @@
+/home/vrit/Desktop/mind_glasses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vrit/Desktop/mind_glasses/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vrit/Desktop/mind_glasses/cmake-build-debug/CMakeFiles/mind_glasses.dir
+/home/vrit/Desktop/mind_glasses/cmake-build-debug/CMakeFiles/mind_glasses_automoc.dir
